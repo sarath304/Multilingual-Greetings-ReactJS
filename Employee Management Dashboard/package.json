@@ -1,7 +1,14 @@
 {
   "name": "employee-management-system",
   "version": "1.0.0",
+  "description": "\"employees Data\"",
+  "keywords": [
+    "sarath"
+  ],
+  "license": "ISC",
+  "author": "sarath sangaru",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -20,4 +27,3 @@
     "vite": "^5.0.8"
   }
 }
-
